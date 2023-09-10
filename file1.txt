@@ -1,2 +1,3 @@
 file 1
-this for master
+this for remote master
+added from remote
